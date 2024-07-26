@@ -1,0 +1,29 @@
+*{
+    background-color: #8BB174;
+}
+.header{
+    text-align: center;
+}
+.game{
+    height:70vh;
+    
+}
+.container{
+    height:60vh;
+    width:60vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+    
+}
+.box{
+    font-size: 10vh;
+    background-color: #fff;
+    height: 18vh;
+    width: 18vh;
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+}
